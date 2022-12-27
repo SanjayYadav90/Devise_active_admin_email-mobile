@@ -15,6 +15,11 @@ Things you may want to cover:
 
 * Database creation: $ rails db:create 
 
+* Functionality-
+	
+	* Login with email or mobile no with same password.
+	* Active admin can mannage everything.
+
 * Links-
 	* Loing with mobile or email: 1.  https://randvblog.wordpress.com/2015/11/06/registration-and-login-with-email-or-mobile_no-by-using-devise-gem-in-rails-4-2/
 
